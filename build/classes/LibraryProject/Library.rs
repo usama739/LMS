@@ -1,0 +1,6 @@
+LibraryProject.BookItem
+LibraryProject.BookIssue
+LibraryProject.UserTasks
+LibraryProject.User
+LibraryProject.BookStatus
+LibraryProject.BookReturn
