@@ -17,7 +17,8 @@ This project is a desktop application developed using Java Swing for the user in
 
 ## Technologies Used
 
-- JSwing: For building the user interface
+- Swing: For building the user interface
+- Java: For building backend
 - MS SQL: For database management
 
 ## Usage
